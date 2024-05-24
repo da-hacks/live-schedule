@@ -35,7 +35,7 @@ const Countdown = ({ targetDate }) => {
 
   return (
     <div>
-      <h1 className="flex justify-center lg:text-[172px] text-5xl mb-5 text-[#000000] font-SFMono-Regular font-bold w-max		">
+      <h1 className="flex justify-center lg:text-[172px] text-5xl mb-5 text-[#000000] font-manrope  font-bold w-max		">
         {days}d {hours}h {minutes}m {seconds}s
       </h1>
     </div>
