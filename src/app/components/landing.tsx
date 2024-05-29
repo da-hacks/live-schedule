@@ -9,7 +9,12 @@ export default function Landing() {
 
         <div className="px-6 lg:px-8">
           <div className="mx-auto max-w-2xl py-16 sm:py-48 lg:py-56">
-            <div className="sm:mb-8 sm:flex sm:justify-center">
+            <div className="sm:mb-8 sm:flex sm:justify-center gap-4">
+              <div className="flex justify-center lg:relative rounded-full px-4 py-1 lg:text-base text-sm leading-6 text-black lg:ring-1 ring-gray-900/10 hover:ring-gray-900/20">
+                <a href="#schedule" className="font-semibold">
+                  Schedule &rarr;
+                </a>
+              </div>
               <div className="flex justify-center lg:relative rounded-full px-4 py-1 lg:text-base text-sm leading-6 text-black lg:ring-1 ring-gray-900/10 hover:ring-gray-900/20">
                 <a
                   href="https://deanzahacks.com/"
