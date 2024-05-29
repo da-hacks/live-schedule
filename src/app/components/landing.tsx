@@ -36,7 +36,7 @@ export default function Landing() {
               </p>
               <h1 className="text-2xl mt-5">Discord</h1>
               <div className="flex w-max border-2 justify-center p-2 hover:border-blue-500 rounded-md">
-                <a href="https://discord.com/invite/7MXUs72MvB">
+                <a href="https://discord.com/invite/V225BEAD9S">
                   <img
                     src="./qrcode_discord.com.png"
                     alt=""
