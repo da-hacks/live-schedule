@@ -40,10 +40,20 @@ export default function Landing() {
               <p className="mt-6 text-lg leading-8 text-black">
                 Note: all times are in PST (California time)
               </p>
-              <h1 className="text-2xl mt-5">Discord</h1>
-              <div className="flex w-60 border-2 justify-center p-2 hover:border-blue-500 rounded-md">
-                <a href="https://discord.com/invite/V225BEAD9S">
+              <div className="flex lg:w-9/12 lg:flex-row flex-col border-2 justify-center p-2 rounded-md">
+                <a
+                  href="https://discord.com/invite/V225BEAD9S"
+                  className="border-2 hover:border-blue-500 w-[500px]"
+                >
+                  Discord
                   <img src="qrcode_discord.com.png" alt="qr" />
+                </a>
+                <a
+                  href="https://discord.com/invite/V225BEAD9S"
+                  className="border-2 hover:border-blue-500 w-[500px]"
+                >
+                  Hack Guide
+                  <img src="qrcode_docs.google.com.png" alt="qr hack" />
                 </a>
               </div>
             </div>
