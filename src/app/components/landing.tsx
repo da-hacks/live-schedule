@@ -41,14 +41,9 @@ export default function Landing() {
                 Note: all times are in PST (California time)
               </p>
               <h1 className="text-2xl mt-5">Discord</h1>
-              <div className="flex w-max border-2 justify-center p-2 hover:border-blue-500 rounded-md">
+              <div className="flex w-60 border-2 justify-center p-2 hover:border-blue-500 rounded-md">
                 <a href="https://discord.com/invite/V225BEAD9S">
-                  <img
-                    src="/qrcode_discord.com.png"
-                    alt=""
-                    width={250}
-                    height={250}
-                  />
+                  <img src="qrcode_discord.com.png" alt="qr" />
                 </a>
               </div>
             </div>

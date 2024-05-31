@@ -9,18 +9,12 @@ export default function Schedule() {
       >
         <h1 className="p-2 m-2"> Schedule </h1>
         <div className="flex justify-center gap-2 flex-col lg:flex-row">
-          <img
-            src="/m11.png"
-            width={500}
-            height={500}
-            alt="Picture of the author"
-          />
-          <img
-            src="/m12.png"
-            width={500}
-            height={500}
-            alt="Picture of the author"
-          />
+          <div className="w-1/3 border-2 border-black">
+            <img src="m11.png" alt="Picture of the author" />
+          </div>
+          <div className="w-1/3 border-2 border-black">
+            <img src="m12.png" alt="Picture of the author" />
+          </div>
         </div>
       </div>
     </>
