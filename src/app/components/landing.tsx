@@ -30,7 +30,7 @@ export default function Landing() {
             <div className="flex justify-center">
               <Countdown
                 //   className="xl:text-7xl lg:text-6xl text-8xl mb-4 font-CerealBD text-white"
-                targetDate="2024-06-01T13:00:00"
+                targetDate="2024-06-01T15:00:00"
               />
             </div>
             <div className="flex flex-col items-center text-center">
