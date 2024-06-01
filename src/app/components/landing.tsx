@@ -49,7 +49,7 @@ export default function Landing() {
                   <img src="qrcode_discord.com.png" alt="qr" />
                 </a>
                 <a
-                  href="https://discord.com/invite/V225BEAD9S"
+                  href="https://docs.google.com/document/d/e/2PACX-1vQmDCK49N5kSuBpJ9Dw5KhlMqriV16uB-_2R0-PrGmk3n3X-dB9Prqh02WYxIBSJoETj7I4buMfd84t/pub"
                   className="border-2 hover:border-blue-500 w-[500px]"
                 >
                   Hack Guide
