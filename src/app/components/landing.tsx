@@ -28,14 +28,17 @@ export default function Landing() {
               </div>
             </div>
             <div className="flex justify-center">
-              <Countdown
+              {/* <Countdown
                 //   className="xl:text-7xl lg:text-6xl text-8xl mb-4 font-CerealBD text-white"
                 targetDate="2024-06-01T15:00:00"
-              />
+              /> */}
+              <h1 className="flex justify-center lg:text-[172px] text-5xl mb-5 text-[#000000] font-manrope  font-bold w-max		">
+                00:00:00:00
+              </h1>
             </div>
             <div className="flex flex-col items-center text-center">
               <h1 className=" font-semibold tracking-tight text-black lg:text-4xl text-2xl">
-                UNTIL HACKING ENDS!
+                DAHACKS25.DEVPOST.COM
               </h1>
               <p className="mt-6 text-lg leading-8 text-black">
                 Note: all times are in PST (California time)
